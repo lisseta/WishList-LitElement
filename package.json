@@ -1,0 +1,17 @@
+{
+  "name": "wishlist",
+  "version": "1.0.0",
+  "description": "WishLit utilizando LItELement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Lizeth Evelyn",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit-element": "^3.3.3"
+  }
+}
